@@ -14,12 +14,12 @@
 
 ## Contact 📫
 <p>
-	<a href="mailto:weoyyang00@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
-	</a>
- 	<a href="https://www.linkedin.com/in/weoy-yang-ang/">
-		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
-	</a>   
+    <a href="mailto:weoyyang00@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/weoy-yang-ang/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
+    </a>   
 </p>
 
 ## Resume 📄
