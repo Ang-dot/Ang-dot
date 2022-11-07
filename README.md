@@ -17,10 +17,10 @@
 
 ## Contact 📫
 <p>
-    <a href="mailto:weoyyang00@gmail.com">
+    <a href="mailto:weoyyang00@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/weoy-yang-ang/">
+    <a href="https://www.linkedin.com/in/weoy-yang-ang/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white">
     </a>   
 </p>
@@ -28,7 +28,7 @@
 
 ## Resume 📄
 <p>
-    <a href="https://docs.google.com/document/d/1gV7vtFU0KHalcYotq-U88vKehmVmPRtkK2yHLn0kX_U/edit?usp=sharing">
+    <a href="https://docs.google.com/document/d/1gV7vtFU0KHalcYotq-U88vKehmVmPRtkK2yHLn0kX_U/edit?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
     </a>
 </p>
