@@ -10,9 +10,9 @@
 
 
 - 👋 Hi, I’m Ang Weoy Yang.
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently enrolled in BSc (Hons) in Software Engineering at Asia Pacific University (APU).
-- 💞️ I’m looking to collaborate on interesting and meaningful projects.
+- 👀 Developer Relations Engineer | Software Engineer | Multilingual (English, Mandarin, Cantonese, Bahasa)
+- 🌱 APAC DevRel & Full-Stack Engineer with proven success in developer enablement, community engagement, and product adoption.
+- 💞️ Fluent in English and Chinese, enabling effective communication and community building across multi-regional developer ecosystems.
 
 
 ## Contact 📫
