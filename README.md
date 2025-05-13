@@ -12,7 +12,7 @@
 - 👋 Hi, I’m Ang Weoy Yang.
 - 👀 Developer Relations Engineer | Software Engineer | Multilingual (English, Mandarin, Cantonese, Bahasa)
 - 🌱 APAC DevRel & Full-Stack Engineer with proven success in developer enablement, community engagement, and product adoption.
-- 💞️ Fluent in English and Chinese, enabling effective communication and community building across multi-regional developer ecosystems.
+- 💞️ Fluent in multiple languages, enabling effective communication and community building across multi-regional developer ecosystems.
 
 
 ## Contact 📫
