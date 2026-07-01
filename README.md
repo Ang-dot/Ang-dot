@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Developer+Relations+Engineer;Web3+%7C+Fintech+%7C+AI+Agents;Building+across+the+onchain+ecosystem;ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Developer+Relations+%26+Solutions+Engineer;Web3+%7C+Fintech+%7C+AI+Agents;Turning+complex+protocols+into+dev+adoption;ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!-- Bio -->
 <div align="center">
-  <em>Building developer experience and SDK tooling for autonomous on-chain agents.</em>
+  <em>I turn complex on-chain protocols into developer adoption. DevRel &amp; Solutions Engineer at Virtuals Protocol, ex-CoinGecko.</em>
 </div>
 
 <br/>
@@ -40,13 +40,50 @@
 
 ```yaml
 name: Ang Weoy Yang
-role: Developer Relations Engineer
+role: Developer Relations & Solutions Engineer
 location: Malaysia (GMT+8)
 focus: Web3 x Fintech x AI Agents
-current: Virtuals Protocol (DevRel)
+current: Virtuals Protocol (DevRel & Solutions)
 previous: CoinGecko (Full-Stack Engineering)
 languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
+education: BSc (Hons) Software Engineering, First-Class
 ```
+
+<br/>
+
+### Impact at a Glance
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🚀 **45+** developer teams onboarded to ACP / GAME SDK | 🧩 **80%** of community-driven PR merges facilitated |
+| ⏱️ **-30%** onboarding time, **-40%** support requests | 📈 Drove ACP pre-launch: **$300M → $1.38B** mcap in 30 days |
+| 🏆 **2x** ETHGlobal hackathon winner | 🌏 **8,500+** developers engaged as GDSC APU Lead |
+
+</div>
+
+<br/>
+
+### What I Do
+
+- **Developer Relations & Enablement** — onboarding, SDK maintenance (Node.js/TypeScript & Python), documentation revamps, weekly Dev Jam sessions, and hackathon mentoring/judging (ETH Hangzhou, Virtuals Hackathons)
+- **Solutions Engineering** — bridging community developers and internal product teams, driving partner integrations and plugin ecosystems
+- **Community Building** — led Malaysia's largest GDSC chapter (80 events, 200% YoY growth) and the country's record-breaking 1,000+ participant hackathon
+- **Full-Stack Engineering** — Ruby on Rails backend refactors (-22% SLA latency at CoinGecko), modern JS frontends, EVM smart contracts
+
+<br/>
+
+### Featured Work
+
+<div align="center">
+
+| Project | What It Is | Recognition |
+|:-------:|:-----------|:------------|
+| **Ka-Ching** | AI agent for multisig wallet setup on Safe SDK, Solidity across multiple EVM chains, Explainable AI (XAI) for pre-tx fraud detection | 🏆 ETHGlobal Bangkok Winner (Rootstock, Cartesi, Blockscout, World, Flow) |
+| **Swip3** | Decentralized Web3 job platform with swipe-card gamification, AI job matching, on-chain payouts | 🏆 ETH KL Winner (Scroll, Worldcoin) |
+
+</div>
 
 <br/>
 
@@ -75,31 +112,34 @@ languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Web3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-181A1F?style=for-the-badge&logo=ethereum&logoColor=yellow)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/EVM-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Safe](https://img.shields.io/badge/Safe%20SDK-12FF80?style=for-the-badge&logo=safe&logoColor=black)
+![Scroll](https://img.shields.io/badge/Scroll-FFEEDA?style=for-the-badge&logo=scroll&logoColor=black)
 
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 <br/>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff,79c0ff,a371f7&height=100&section=footer" width="100%" />
