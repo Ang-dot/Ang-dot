@@ -70,13 +70,13 @@ languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,ruby,solidity&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,ruby,solidity" alt="Languages" />
   <br/><br/>
   <h4>Web3</h4>
-  <img src="https://skillicons.dev/icons?i=ethereum,solana,hardhat,react,nextjs&theme=light" alt="Web3" />
+  <img src="https://skillicons.dev/icons?i=ethereum,solana,hardhat,react,nextjs" alt="Web3" />
   <br/><br/>
   <h4>Backend & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,git&theme=light" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,git" alt="Backend & Tools" />
 </div>
 
 <br/>
@@ -84,18 +84,14 @@ languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
 ### Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/Ang-dot/cw-counter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-dot&repo=cw-counter&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Ang-dot/chill_fi_demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-dot&repo=chill_fi_demo&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Ang-dot/safe-wallet-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-dot&repo=safe-wallet-web&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Ang-dot/cryptoformat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ang-dot&repo=cryptoformat&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=00000000" />
-  </a>
+
+| Project | Description |
+|:-------:|:------------|
+| **[cw-counter](https://github.com/Ang-dot/cw-counter)** | CosmWasm smart contract in Rust: access-controlled counter with custom error handling |
+| **[chill_fi_demo](https://github.com/Ang-dot/chill_fi_demo)** | G.A.M.E agent built with Aperture Finance, on-chain agent framework integration |
+| **[safe-wallet-web](https://github.com/Ang-dot/safe-wallet-web)** | Safe{Wallet} multisig EVM wallet web interface for on-chain treasury management |
+| **[cryptoformat](https://github.com/Ang-dot/cryptoformat)** | JavaScript library for formatting and displaying cryptocurrency values |
+
 </div>
 
 <br/>
