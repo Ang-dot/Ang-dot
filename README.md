@@ -21,15 +21,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="mailto:weoyyang00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/weoy-yang-ang/">
-    <img src="https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://docs.google.com/document/d/1gV7vtFU0KHalcYotq-U88vKehmVmPRtkK2yHLn0kX_U/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-FF00E5?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
+  <a href="mailto:weoyyang00@gmail.com"><img src="https://img.shields.io/badge/Gmail-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>&nbsp;<a href="https://www.linkedin.com/in/weoy-yang-ang/"><img src="https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://docs.google.com/document/d/1gV7vtFU0KHalcYotq-U88vKehmVmPRtkK2yHLn0kX_U/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF00E5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -53,15 +45,20 @@ education: BSc (Hons) Software Engineering, First-Class
 
 ### `~/impact`
 
-<div align="center">
-
-| | |
-|:---|:---|
-| 🚀 **45+** developer teams onboarded to ACP / GAME SDK | 🧩 **80%** of community-driven PR merges facilitated |
-| ⏱️ **-30%** onboarding time, **-40%** support requests | 📈 Drove ACP pre-launch: **$300M → $1.38B** in 30 days |
-| 🏆 **2x** ETHGlobal hackathon winner | 🌏 **8,500+** developers engaged as GDSC APU Lead |
-
-</div>
+<table>
+  <tr>
+    <td>🚀 <b>45+</b> developer teams onboarded to ACP / GAME SDK</td>
+    <td>🧩 <b>80%</b> of community-driven PR merges facilitated</td>
+  </tr>
+  <tr>
+    <td>⏱️ <b>-30%</b> onboarding time, <b>-40%</b> support requests</td>
+    <td>📈 Drove ACP pre-launch: <b>$300M → $1.38B</b> in 30 days</td>
+  </tr>
+  <tr>
+    <td>🏆 <b>2x</b> ETHGlobal hackathon winner</td>
+    <td>🌏 <b>8,500+</b> developers engaged (Google Developer Students Club, APU Lead)</td>
+  </tr>
+</table>
 
 <br/>
 
@@ -69,7 +66,7 @@ education: BSc (Hons) Software Engineering, First-Class
 
 - **Developer Relations & Enablement** — onboarding, SDK maintenance (Node.js/TypeScript & Python), documentation revamps, weekly Dev Jam sessions, and hackathon mentoring/judging (ETH Hangzhou, Virtuals Hackathons)
 - **Solutions Engineering** — bridging community developers and internal product teams, driving partner integrations and plugin ecosystems
-- **Community Building** — led Malaysia's largest GDSC chapter (80 events, 200% YoY growth) and the country's record-breaking 1,000+ participant hackathon
+- **Community Building** — led Malaysia's largest Google Developer Students Club chapter (80 events, 200% YoY growth) and the country's record-breaking 1,000+ participant hackathon
 - **Full-Stack Engineering** — Ruby on Rails backend refactors (-22% SLA latency at CoinGecko), modern JS frontends, EVM smart contracts
 
 <br/>
