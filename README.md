@@ -1,12 +1,12 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff,79c0ff,a371f7&height=140&section=header&text=Ang%20Weoy%20Yang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:A020F0,100:FF00E5&height=160&section=header&text=Ang%20Weoy%20Yang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20Relations%20%26%20Solutions%20Engineer&descSize=16&descAlignY=60" width="100%" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Developer+Relations+%26+Solutions+Engineer;Web3+%7C+Fintech+%7C+AI+Agents;Turning+complex+protocols+into+dev+adoption;ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&random=false&width=680&lines=%3E+Turning+complex+protocols+into+dev+adoption;%3E+Web3+%7C+Fintech+%7C+AI+Agents;%3E+DevRel+%26+Solutions+Engineer+%40+Virtuals;%3E+ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!-- Bio -->
 <div align="center">
-  <em>I turn complex on-chain protocols into developer adoption. DevRel &amp; Solutions Engineer at Virtuals Protocol, ex-CoinGecko.</em>
+  <em>I turn complex on-chain protocols into developer adoption.</em>
 </div>
 
 <br/>
@@ -22,13 +22,13 @@
 <!-- Social Badges -->
 <div align="center">
   <a href="mailto:weoyyang00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/weoy-yang-ang/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://docs.google.com/document/d/1gV7vtFU0KHalcYotq-U88vKehmVmPRtkK2yHLn0kX_U/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-FF00E5?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 ---
 
-### About Me
+### `~/about-me`
 
 ```yaml
 name: Ang Weoy Yang
@@ -51,21 +51,21 @@ education: BSc (Hons) Software Engineering, First-Class
 
 <br/>
 
-### Impact at a Glance
+### `~/impact`
 
 <div align="center">
 
 | | |
 |:---|:---|
 | 🚀 **45+** developer teams onboarded to ACP / GAME SDK | 🧩 **80%** of community-driven PR merges facilitated |
-| ⏱️ **-30%** onboarding time, **-40%** support requests | 📈 Drove ACP pre-launch: **$300M → $1.38B** mcap in 30 days |
+| ⏱️ **-30%** onboarding time, **-40%** support requests | 📈 Drove ACP pre-launch: **$300M → $1.38B** in 30 days |
 | 🏆 **2x** ETHGlobal hackathon winner | 🌏 **8,500+** developers engaged as GDSC APU Lead |
 
 </div>
 
 <br/>
 
-### What I Do
+### `~/what-i-do`
 
 - **Developer Relations & Enablement** — onboarding, SDK maintenance (Node.js/TypeScript & Python), documentation revamps, weekly Dev Jam sessions, and hackathon mentoring/judging (ETH Hangzhou, Virtuals Hackathons)
 - **Solutions Engineering** — bridging community developers and internal product teams, driving partner integrations and plugin ecosystems
@@ -74,7 +74,7 @@ education: BSc (Hons) Software Engineering, First-Class
 
 <br/>
 
-### Featured Work
+### `~/featured-work`
 
 <div align="center">
 
@@ -87,54 +87,54 @@ education: BSc (Hons) Software Engineering, First-Class
 
 <br/>
 
-### GitHub Activity
+### `~/github-activity`
 
 <div align="center">
   <a href="https://github.com/Ang-dot">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ang-dot&hide_border=true&background=00000000&ring=58a6ff&fire=f18537&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&stroke=58a6ff" height="170" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ang-dot&hide_border=true&background=00000000&ring=FF00E5&fire=00F0FF&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF00E5&sideLabels=A020F0&dates=8b949e&stroke=A020F0" height="170" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ang-dot&theme=github&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ang-dot&bg_color=00000000&color=00F0FF&line=FF00E5&point=A020F0&area=true&area_color=A020F0&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <br/>
 
-### Tech Stack
+### `~/tech-stack`
 
 <div align="center">
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0018?style=for-the-badge&logo=typescript&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0018?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0A0018?style=for-the-badge&logo=python&logoColor=00F0FF)
+![Ruby](https://img.shields.io/badge/Ruby-0A0018?style=for-the-badge&logo=ruby&logoColor=FF00E5)
+![Rust](https://img.shields.io/badge/Rust-0A0018?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![Solidity](https://img.shields.io/badge/Solidity-0A0018?style=for-the-badge&logo=solidity&logoColor=A020F0)
+![Java](https://img.shields.io/badge/Java-0A0018?style=for-the-badge&logo=openjdk&logoColor=FF00E5)
 
 **Web3**
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-0A0018?style=for-the-badge&logo=ethereum&logoColor=00F0FF)
+![Solana](https://img.shields.io/badge/Solana-0A0018?style=for-the-badge&logo=solana&logoColor=A020F0)
+![Chainlink](https://img.shields.io/badge/Chainlink-0A0018?style=for-the-badge&logo=chainlink&logoColor=00F0FF)
+![Web3.js](https://img.shields.io/badge/Web3.js-0A0018?style=for-the-badge&logo=web3dotjs&logoColor=FF00E5)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-0A0018?style=for-the-badge&logo=ethereum&logoColor=A020F0)
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
-![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-0A0018?style=for-the-badge&logo=react&logoColor=00F0FF)
+![Next.js](https://img.shields.io/badge/Next.js-0A0018?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Rails](https://img.shields.io/badge/Rails-0A0018?style=for-the-badge&logo=rubyonrails&logoColor=FF00E5)
+![Node.js](https://img.shields.io/badge/Node.js-0A0018?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-0A0018?style=for-the-badge&logo=aws&logoColor=00F0FF)
+![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0A0018?style=for-the-badge&logo=azure&logoColor=00F0FF)
+![Cypress](https://img.shields.io/badge/Cypress-0A0018?style=for-the-badge&logo=cypress&logoColor=A020F0)
+![Git](https://img.shields.io/badge/Git-0A0018?style=for-the-badge&logo=git&logoColor=FF00E5)
 
 </div>
 
@@ -143,7 +143,7 @@ education: BSc (Hons) Software Engineering, First-Class
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff,79c0ff,a371f7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00E5,50:A020F0,100:00F0FF&height=120&section=footer" width="100%" />
 </div>
 
 <!--
