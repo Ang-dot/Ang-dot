@@ -54,7 +54,7 @@ languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
 
 <div align="center">
   <a href="https://github.com/Ang-dot">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ang-dot&hide_border=true&ring=58a6ff&fire=f18537&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" height="170" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ang-dot&hide_border=true&background=00000000&ring=58a6ff&fire=f18537&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&stroke=58a6ff" height="170" alt="GitHub Streak" />
   </a>
 </div>
 
