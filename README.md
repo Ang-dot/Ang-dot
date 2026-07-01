@@ -1,59 +1,157 @@
-<h2 align="center">
-    <b>Ang Weoy Yang</b>
-  <br/>
-  <br/>
-    <img alt="Ang Weoy Yang" src="https://avatars.githubusercontent.com/u/62604618?s=400&u=1e122f1823f5c0ff36b41b2f3996e4613003f41a&v=4" height="250px"/>
-</h2>
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Ang%20Weoy%20Yang&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-<p align="center">
-  <em>Developer Relations Engineer & Software Engineer building at the intersection of fintech and Web3.</em>
-</p>
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Developer+Relations+Engineer;Web3+%E2%80%A2+Fintech+%E2%80%A2+AI+Agents;Building+on+Base+%F0%9F%94%B5;ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
+<br/>
+
+<!-- Bio -->
+<div align="center">
+  <em>Building developer experience and SDK tooling for autonomous on-chain agents.</em>
+</div>
+
+<br/>
+
+<!-- Social Badges -->
+<div align="center">
   <a href="mailto:weoyyang00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/weoy-yang-ang/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://docs.google.com/document/d/1gV7vtFU0KHalcYotq-U88vKehmVmPRtkK2yHLn0kX_U/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
 
 ---
 
-### Currently
+### About Me
 
-**Developer Relations Engineer** at Virtuals Protocol, building developer experience and SDK tooling for autonomous on-chain agents on Base. Previously full-stack engineer at CoinGecko, building high-throughput crypto market data APIs.
+```yaml
+name: Ang Weoy Yang
+role: Developer Relations Engineer
+location: Malaysia (GMT+8)
+focus: Web3 x Fintech x AI Agents
+current: Virtuals Protocol (DevRel)
+previous: CoinGecko (Full-Stack Engineering)
+languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
+```
 
-### What I Do
+<br/>
 
-- **Developer Relations & Enablement:** SDK architecture (Python / TypeScript), developer onboarding, technical documentation, and integration support for 45+ external teams
-- **Web3 Engineering:** Smart contract development (Solidity, CosmWasm), EVM interactions (ethers.js / viem), agent framework integrations
-- **Backend & API Engineering:** REST and WebSocket API pipelines, data ingestion, developer-facing platform infrastructure
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Ang-dot">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ang-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ang-dot">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ang-dot&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" height="165" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ang-dot&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+### Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ang-dot&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&area_color=58a6ff" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
 
 ### Tech Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript, Python, JavaScript, Rust, Ruby, Solidity |
-| **Web3** | EVM (Ethereum / Base / Arbitrum), CosmWasm, ethers.js, viem, agent frameworks |
-| **Backend** | Node.js, REST / WebSocket APIs, PostgreSQL, Redis |
-| **DevRel** | SDK design, developer onboarding, technical writing, community support |
-| **Tools** | Git, Docker, n8n, Railway, Vertex AI |
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,ruby,solidity&theme=dark" alt="Languages" />
+  <br/><br/>
+  <h4>Web3</h4>
+  <img src="https://skillicons.dev/icons?i=ethereum,solana,hardhat,react,nextjs&theme=dark" alt="Web3" />
+  <br/><br/>
+  <h4>Backend & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,git,redis&theme=dark" alt="Backend & Tools" />
+</div>
+
+<br/>
 
 ### Pinned Projects
 
-- **[cw-counter](https://github.com/Ang-dot/cw-counter)** - CosmWasm smart contract in Rust for an access-controlled counter with custom error handling
-- **[chill_fi_demo](https://github.com/Ang-dot/chill_fi_demo)** - G.A.M.E agent built with Aperture Finance
-- **[safe-wallet-web](https://github.com/Ang-dot/safe-wallet-web)** - Safe{Wallet} multisig EVM wallet interface
-- **[cryptoformat](https://github.com/Ang-dot/cryptoformat)** - JavaScript library for formatting and displaying cryptocurrency values
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">cw-counter</h3>
+      <p align="center">CosmWasm smart contract in Rust featuring an access-controlled counter with custom error handling and query support.</p>
+      <p align="center">
+        <a href="https://github.com/Ang-dot/cw-counter">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">chill_fi_demo</h3>
+      <p align="center">G.A.M.E agent built with Aperture Finance, demonstrating on-chain agent framework integration.</p>
+      <p align="center">
+        <a href="https://github.com/Ang-dot/chill_fi_demo">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">safe-wallet-web</h3>
+      <p align="center">Safe{Wallet} multisig EVM wallet web interface for secure on-chain treasury management.</p>
+      <p align="center">
+        <a href="https://github.com/Ang-dot/safe-wallet-web">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">cryptoformat</h3>
+      <p align="center">JavaScript library for formatting and displaying cryptocurrency values and monetary amounts.</p>
+      <p align="center">
+        <a href="https://github.com/Ang-dot/cryptoformat">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Languages
+<br/>
 
-English, Mandarin, Cantonese, Bahasa Malaysia
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://komarev.com/visitor-badge?username=Ang-dot&repo=Ang-dot&label=Profile%20Visitors&labelColor=0d1117&color=58a6ff&logo=github&logoColor=white&labelStyle=upper" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" />
+</div>
 
 <!--
-Ang-dot/Ang-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ang-dot/Ang-dot is a special repository because its README.md appears on your GitHub profile.
 -->
