@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Developer+Relations+Engineer;Web3+%7C+Fintech+%7C+AI+Agents;Building+on+Base+%F0%9F%94%B5;ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Developer+Relations+Engineer;Web3+%7C+Fintech+%7C+AI+Agents;Building+across+the+onchain+ecosystem;ex-CoinGecko+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
 
@@ -100,23 +100,6 @@ languages: [English, Mandarin, Cantonese, Bahasa Malaysia]
 </div>
 
 <br/>
-
-### Pinned Projects
-
-<div align="center">
-
-| Project | Description |
-|:-------:|:------------|
-| **[cw-counter](https://github.com/Ang-dot/cw-counter)** | CosmWasm smart contract in Rust: access-controlled counter with custom error handling |
-| **[chill_fi_demo](https://github.com/Ang-dot/chill_fi_demo)** | G.A.M.E agent built with Aperture Finance, on-chain agent framework integration |
-| **[safe-wallet-web](https://github.com/Ang-dot/safe-wallet-web)** | Safe{Wallet} multisig EVM wallet web interface for on-chain treasury management |
-| **[cryptoformat](https://github.com/Ang-dot/cryptoformat)** | JavaScript library for formatting and displaying cryptocurrency values |
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff,79c0ff,a371f7&height=100&section=footer" width="100%" />
