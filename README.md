@@ -113,9 +113,9 @@ education: BSc (Hons) Software Engineering, First-Class
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0018?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0A0018?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![Ruby](https://img.shields.io/badge/Ruby-0A0018?style=for-the-badge&logo=ruby&logoColor=FF00E5)
-![Rust](https://img.shields.io/badge/Rust-0A0018?style=for-the-badge&logo=rust&logoColor=FF6B35)
-![Solidity](https://img.shields.io/badge/Solidity-0A0018?style=for-the-badge&logo=solidity&logoColor=00F0FF)
-![Java](https://img.shields.io/badge/Java-0A0018?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
+![Rust](https://img.shields.io/badge/Rust-0A0018?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![Solidity](https://img.shields.io/badge/Solidity-0A0018?style=for-the-badge&logo=solidity&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-0A0018?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 
 **Web3**
 
