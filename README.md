@@ -47,16 +47,16 @@ education: BSc (Hons) Software Engineering, First-Class
 
 <table>
   <tr>
+    <td>⚡ <b>-30%</b> onboarding time &amp; <b>-40%</b> support load via SDK docs revamp</td>
     <td>🚀 <b>45+</b> developer teams onboarded to ACP / GAME SDK</td>
+  </tr>
+  <tr>
+    <td>🎤 Lead speaker, <b>Virtuals Protocol Builder Jam Sessions</b></td>
     <td>🧩 <b>80%</b> of community-driven PR merges facilitated</td>
   </tr>
   <tr>
-    <td>⏱️ <b>-30%</b> onboarding time, <b>-40%</b> support requests</td>
-    <td>📈 Drove ACP pre-launch: <b>$300M → $1.38B</b> in 30 days</td>
-  </tr>
-  <tr>
-    <td>🏆 <b>2x</b> ETHGlobal hackathon winner</td>
-    <td>🌏 <b>8,500+</b> developers engaged (Google Developer Students Club, APU Lead)</td>
+    <td>🏆 <b>2x</b> ETHGlobal hackathon winner (I ship what I evangelize)</td>
+    <td>🌏 <b>8,500+</b> developers engaged across communities &amp; events</td>
   </tr>
 </table>
 
@@ -64,10 +64,10 @@ education: BSc (Hons) Software Engineering, First-Class
 
 ### `~/what-i-do`
 
-- **Developer Relations & Enablement** — onboarding, SDK maintenance (Node.js/TypeScript & Python), documentation revamps, weekly Dev Jam sessions, and hackathon mentoring/judging (ETH Hangzhou, Virtuals Hackathons)
-- **Solutions Engineering** — bridging community developers and internal product teams, driving partner integrations and plugin ecosystems
-- **Community Building** — led Malaysia's largest Google Developer Students Club chapter (80 events, 200% YoY growth) and the country's record-breaking 1,000+ participant hackathon
-- **Full-Stack Engineering** — Ruby on Rails backend refactors (-22% SLA latency at CoinGecko), modern JS frontends, EVM smart contracts
+- **Own the developer experience** — SDK maintenance (Node.js/TypeScript & Python) and a docs revamp that cut onboarding time 30% and support load 40%, turning first-touch developers into shipping teams
+- **Developer education & public speaking** — lead/default speaker for Virtuals Protocol's Builder Jam Sessions; regular meetup & workshop speaker; hackathon mentor and judge (ETH Hangzhou, Virtuals Hackathons)
+- **Solutions engineering** — the technical bridge between community developers and internal product teams; drive partner integrations and the plugin ecosystem (facilitated 80% of community-driven PR merges)
+- **Technical credibility** — I build what I evangelize: EVM smart contracts, 2x ETHGlobal winner, and production full-stack work (Rails backend refactor, -22% SLA latency at CoinGecko)
 
 <br/>
 
