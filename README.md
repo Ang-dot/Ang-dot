@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:A020F0,100:FF00E5&height=160&section=header&text=Ang%20Weoy%20Yang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20Relations%20%26%20Solutions%20Engineer&descSize=16&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:A020F0,100:FF00E5&height=160&section=header&text=Ang%20Weoy%20Yang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -113,17 +113,17 @@ education: BSc (Hons) Software Engineering, First-Class
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0018?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0A0018?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![Ruby](https://img.shields.io/badge/Ruby-0A0018?style=for-the-badge&logo=ruby&logoColor=FF00E5)
-![Rust](https://img.shields.io/badge/Rust-0A0018?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![Solidity](https://img.shields.io/badge/Solidity-0A0018?style=for-the-badge&logo=solidity&logoColor=A020F0)
-![Java](https://img.shields.io/badge/Java-0A0018?style=for-the-badge&logo=openjdk&logoColor=FF00E5)
+![Rust](https://img.shields.io/badge/Rust-0A0018?style=for-the-badge&logo=rust&logoColor=FF6B35)
+![Solidity](https://img.shields.io/badge/Solidity-0A0018?style=for-the-badge&logo=solidity&logoColor=00F0FF)
+![Java](https://img.shields.io/badge/Java-0A0018?style=for-the-badge&logo=openjdk&logoColor=00F0FF)
 
 **Web3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-0A0018?style=for-the-badge&logo=ethereum&logoColor=00F0FF)
-![Solana](https://img.shields.io/badge/Solana-0A0018?style=for-the-badge&logo=solana&logoColor=A020F0)
+![Solana](https://img.shields.io/badge/Solana-0A0018?style=for-the-badge&logo=solana&logoColor=FF00E5)
 ![Chainlink](https://img.shields.io/badge/Chainlink-0A0018?style=for-the-badge&logo=chainlink&logoColor=00F0FF)
 ![Web3.js](https://img.shields.io/badge/Web3.js-0A0018?style=for-the-badge&logo=web3dotjs&logoColor=FF00E5)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-0A0018?style=for-the-badge&logo=ethereum&logoColor=A020F0)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-0A0018?style=for-the-badge&logo=ethereum&logoColor=00F0FF)
 
 **Frameworks & Tools**
 
@@ -133,8 +133,8 @@ education: BSc (Hons) Software Engineering, First-Class
 ![Node.js](https://img.shields.io/badge/Node.js-0A0018?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-0A0018?style=for-the-badge&logo=aws&logoColor=00F0FF)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0A0018?style=for-the-badge&logo=azure&logoColor=00F0FF)
-![Cypress](https://img.shields.io/badge/Cypress-0A0018?style=for-the-badge&logo=cypress&logoColor=A020F0)
-![Git](https://img.shields.io/badge/Git-0A0018?style=for-the-badge&logo=git&logoColor=FF00E5)
+![Cypress](https://img.shields.io/badge/Cypress-0A0018?style=for-the-badge&logo=cypress&logoColor=00F0FF)
+![Git](https://img.shields.io/badge/Git-0A0018?style=for-the-badge&logo=git&logoColor=FF6B35)
 
 </div>
 
@@ -143,7 +143,7 @@ education: BSc (Hons) Software Engineering, First-Class
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00E5,50:A020F0,100:00F0FF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:A020F0,100:00F0FF&height=120&section=footer" width="100%" />
 </div>
 
 <!--
