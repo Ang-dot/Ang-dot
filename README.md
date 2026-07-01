@@ -47,16 +47,16 @@ education: BSc (Hons) Software Engineering, First-Class
 
 <table>
   <tr>
-    <td>⚡ <b>-30%</b> onboarding time &amp; <b>-40%</b> support load via SDK docs revamp</td>
+    <td>⚡ <b>-30%</b> onboarding time &amp; <b>-40%</b> support load via <a href="https://github.com/Virtual-Protocol/acp-node-v2">SDK</a> docs revamp</td>
     <td>🚀 <b>45+</b> developer teams onboarded to ACP / GAME SDK</td>
   </tr>
   <tr>
-    <td>🎤 Lead speaker, <b>Virtuals Protocol Builder Jam Sessions</b></td>
+    <td>🎤 Lead speaker, <a href="https://x.com/i/broadcasts/1OxwbbgvWBPJB"><b>Virtuals Protocol Builder Jam Sessions</b></a></td>
     <td>🧩 <b>80%</b> of community-driven PR merges facilitated</td>
   </tr>
   <tr>
     <td>🏆 <b>2x</b> ETHGlobal hackathon winner (I ship what I evangelize)</td>
-    <td>🌏 <b>8,500+</b> developers engaged across communities &amp; events</td>
+    <td>🌏 <b>8,500+</b> developers engaged across <a href="https://x.com/baseapac/status/2031685214054047880">communities</a> &amp; <a href="https://x.com/0xmediaco/status/2041464738417422349">events</a></td>
   </tr>
 </table>
 
@@ -64,8 +64,8 @@ education: BSc (Hons) Software Engineering, First-Class
 
 ### `~/what-i-do`
 
-- **Own the developer experience** — SDK maintenance (Node.js/TypeScript & Python) and a docs revamp that cut onboarding time 30% and support load 40%, turning first-touch developers into shipping teams
-- **Developer education & public speaking** — lead/default speaker for Virtuals Protocol's Builder Jam Sessions; regular meetup & workshop speaker; hackathon mentor and judge (ETH Hangzhou, Virtuals Hackathons)
+- **Own the developer experience** — maintain the [ACP Node SDK](https://github.com/Virtual-Protocol/acp-node-v2) (Node.js/TypeScript & Python) and led a docs revamp that cut onboarding time 30% and support load 40%, turning first-touch developers into shipping teams
+- **Developer education & public speaking** — lead/default speaker for Virtuals Protocol's [Builder Jam Sessions](https://x.com/i/broadcasts/1OxwbbgvWBPJB); [technical content](https://x.com/0x02yang/status/2027715482984583490) reposted by the Ethereum Foundation; regular meetup & workshop speaker; hackathon mentor and judge (ETH Hangzhou, Virtuals Hackathons)
 - **Solutions engineering** — the technical bridge between community developers and internal product teams; drive partner integrations and the plugin ecosystem (facilitated 80% of community-driven PR merges)
 - **Technical credibility** — I build what I evangelize: EVM smart contracts, 2x ETHGlobal winner, and production full-stack work (Rails backend refactor, -22% SLA latency at CoinGecko)
 
