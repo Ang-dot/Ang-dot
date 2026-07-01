@@ -77,8 +77,8 @@ education: BSc (Hons) Software Engineering, First-Class
 
 | Project | What It Is | Recognition |
 |:-------:|:-----------|:------------|
-| **Ka-Ching** | AI agent for multisig wallet setup on Safe SDK, Solidity across multiple EVM chains, Explainable AI (XAI) for pre-tx fraud detection | 🏆 ETHGlobal Bangkok Winner (Rootstock, Cartesi, Blockscout, World, Flow) |
-| **Swip3** | Decentralized Web3 job platform with swipe-card gamification, AI job matching, on-chain payouts | 🏆 ETH KL Winner (Scroll, Worldcoin) |
+| **[Ka-Ching](https://ethglobal.com/showcase/ka-ching-epjvo)** | AI agent for multisig wallet setup on Safe SDK, Solidity across multiple EVM chains, Explainable AI (XAI) for pre-tx fraud detection | 🏆 ETHGlobal Bangkok Winner (Rootstock, Cartesi, Blockscout, World, Flow) |
+| **[Swip3](https://devfolio.co/projects/swip-fe95)** | Decentralized Web3 job platform with swipe-card gamification, AI job matching, on-chain payouts | 🏆 ETH KL Winner (Scroll, Worldcoin) |
 
 </div>
 
